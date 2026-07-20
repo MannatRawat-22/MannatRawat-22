@@ -67,17 +67,6 @@
 - Conducted competitor research and market analysis.
 - Researched international companies, with a focus on the London market.
 - Gathered business insights to support strategic decision-making.
-
-### 💼 Business Development Intern
-**Innovination**
-- Conducted lead generation and client outreach.
-- Supported partnership development and business growth initiatives.
-- Communicated with prospective clients and assisted in business expansion.
-
-### 🤝 Internship Delegate
-**SkillAiro**
-- Represented SkillAiro on campus.
-- Promoted internship opportunities and coordinated student engagement.
 ---
 
 ## 🚀 Featured Projects
