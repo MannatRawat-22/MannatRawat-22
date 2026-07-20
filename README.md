@@ -1,99 +1,147 @@
-# Hi there 👋, I'm Mannat Rawat
+<h1 align="center">Hi 👋, I'm Mannat Rawat</h1>
+<h3 align="center">Aspiring Full-Stack Web Developer | BCA Student at SRMIST</h3>
 
-### 💻 Aspiring Full-Stack Web Developer | BCA Student @ SRMIST
+<p align="center">
+  <a href="https://github.com/MannatRawat-22">
+    <img src="https://komarev.com/ghpvc/?username=MannatRawat-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 BCA Student at **SRM Institute of Science and Technology, Delhi NCR**
 - 🌱 Currently learning **React, Node.js, Express.js & MySQL**
-- 🚀 Passionate about building responsive web applications and exploring AI-powered solutions
-- 💡 Interested in Frontend Development, UI/UX, REST APIs, and Open Source
-- 📈 Always learning and improving through projects and internships
+- 💻 Passionate about **Full-Stack Web Development**
+- 🚀 Interested in **Frontend Development, REST APIs, UI/UX, and AI**
+- 📚 Always learning new technologies and building projects
+- 🤝 Open to **Web Development Internship Opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+</p>
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MannatRawat-22&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MannatRawat-22&layout=compact&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MannatRawat-22&theme=tokyonight)
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-📍 SRM Institute of Science and Technology, Delhi NCR Campus  
-📅 2025 – 2028
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-- 🌐 Web Development Intern 
-- 📊 Business Research Intern
-- 🌐 AI & Web Development Internship
+### 🌐 Web Development Intern
+**Prodigy InfoTech**
+- Built responsive web applications and implemented modern frontend features.
+- Strengthened skills in HTML, CSS, JavaScript, and Git.
+
+### 📊 Business Research Intern
+**Prashant Kumar LTD**
+- Conducted market research and analyzed industry trends.
+- Assisted in data collection and business reporting.
+
+### 💼 Business Development Intern
+**Innovination**
+- Worked on lead generation and client outreach.
+- Assisted with partnership development and business growth.
+
+### 🤝 Internship Delegate
+**SkillAiro**
+- Represented SkillAiro within the university.
+- Promoted internship opportunities and student engagement.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 Portfolio Website
-- ☁️ Weather App
-- 📝 To-Do List
-- 🎓 Student Management System
-- 🛒 E-Commerce Website
+- 🌐 **Portfolio Website** – Responsive portfolio built with HTML, CSS & JavaScript.
+- ☁️ **Weather App** – Displays real-time weather using REST APIs.
+- 📝 **To-Do List App** – Task manager with Local Storage.
+- 🎓 **Student Management System** – CRUD application using PHP & MySQL.
+- 🛒 **E-Commerce Website** – Online shopping platform with authentication.
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+- 🎖️ Web Development Internship — Prodigy InfoTech
+- 🎖️ Business Research Internship — Prashant Kumar LTD
+- 🎖️ Business Development Internship — Innovination
+- 🎖️ Internship Delegate — SkillAiro
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+---
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MannatRawat-22&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannatRawat-22&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MannatRawat-22&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
 - React.js
-- Backend Development
+- Node.js
+- Express.js
 - REST APIs
 - Data Structures & Algorithms
 
 ---
 
-## ⚡ Fun Facts
+## 🎓 Education
 
-- 🌿 I enjoy gardening.
-- 🎨 I love designing aesthetic UIs.
-- 💻 Always building something new.
-- ☕ Late-night coding sessions are my favorite.
+**Bachelor of Computer Applications (BCA)**  
+**SRM Institute of Science and Technology, Delhi NCR Campus**  
+📅 2025 – 2028
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MannatRawat-22&label=Profile+Views&color=0e75b6&style=flat)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mannat-rawat/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/MannatRawat-22" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🌿 I enjoy gardening and interior design.
+- 🎨 I love creating clean and aesthetic user interfaces.
+- 💻 I enjoy turning ideas into real web applications.
+- 🚀 Always excited to learn something new.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
