@@ -52,8 +52,8 @@
 
 ## 💼 Experience
 
-- 💼 Business Development Intern — Innovination
-- 🤝 Internship Delegate — SkillAiro
+- 🌐 Web Development Intern 
+- 📊 Business Research Intern
 - 🌐 AI & Web Development Internship
 
 ---
