@@ -81,10 +81,12 @@
 
 ## 🏆 Certifications
 
-- 🎖️ Web Development Internship — Prodigy InfoTech
-- 🎖️ Business Research Internship — Prashant Kumar LTD
-- 🎖️ Business Development Internship — Innovination
-- 🎖️ Internship Delegate — SkillAiro
+### 🏅 Deloitte Australia – Data Analytics Job Simulation (Forage)
+
+- Completed a practical data analytics job simulation focused on solving real-world business problems.
+- Analyzed datasets to identify trends, patterns, and actionable insights.
+- Built an interactive dashboard using Tableau to communicate key business metrics.
+- Applied data cleaning, visualization, and analytical thinking to support data-driven decision-making.
 
 ---
 
