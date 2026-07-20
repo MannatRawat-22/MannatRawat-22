@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mannat Rawat</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | BCA Student at SRMIST</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | BCA Student @ SRM Institute of Science and Technology</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Responsive+Web+Applications;Always+Learning+Something+New;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/MannatRawat-22">
-    <img src="https://komarev.com/ghpvc/?username=MannatRawat-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=MannatRawat-22&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -11,12 +15,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Student at **SRM Institute of Science and Technology, Delhi NCR**
-- 🌱 Currently learning **React, Node.js, Express.js & MySQL**
-- 💻 Passionate about **Full-Stack Web Development**
-- 🚀 Interested in **Frontend Development, REST APIs, UI/UX, and AI**
-- 📚 Always learning new technologies and building projects
-- 🤝 Open to **Web Development Internship Opportunities**
+- 🎓 BCA Student at **SRM Institute of Science and Technology**
+- 💻 Aspiring **Full-Stack Web Developer**
+- 🌱 Currently learning **React.js, Node.js, Express.js & MySQL**
+- 🚀 Passionate about building modern, responsive web applications
+- 📚 Exploring REST APIs, UI/UX, and Open Source
+- 🤝 Open to Web Development Internship opportunities
 
 ---
 
@@ -24,22 +28,22 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,c" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -48,33 +52,39 @@
 
 ### 🌐 Web Development Intern
 **Prodigy InfoTech**
-- Built responsive web applications and implemented modern frontend features.
-- Strengthened skills in HTML, CSS, JavaScript, and Git.
+
+- Developed responsive web applications.
+- Worked with HTML, CSS, JavaScript, and GitHub.
+- Improved frontend development skills through practical projects.
 
 ### 📊 Business Research Intern
 **Prashant Kumar LTD**
-- Conducted market research and analyzed industry trends.
-- Assisted in data collection and business reporting.
+
+- Conducted market and competitor research.
+- Analyzed business trends and prepared reports.
+- Assisted in research-driven business decisions.
 
 ### 💼 Business Development Intern
 **Innovination**
+
 - Worked on lead generation and client outreach.
-- Assisted with partnership development and business growth.
+- Connected with potential clients and supported partnership initiatives.
 
 ### 🤝 Internship Delegate
 **SkillAiro**
-- Represented SkillAiro within the university.
+
+- Represented SkillAiro on campus.
 - Promoted internship opportunities and student engagement.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 **Portfolio Website** – Responsive portfolio built with HTML, CSS & JavaScript.
-- ☁️ **Weather App** – Displays real-time weather using REST APIs.
-- 📝 **To-Do List App** – Task manager with Local Storage.
+- 🌐 **Portfolio Website** – Personal portfolio showcasing skills and projects.
+- ☁️ **Weather App** – Real-time weather application using REST APIs.
+- 📝 **To-Do List App** – Task management application with local storage.
 - 🎓 **Student Management System** – CRUD application using PHP & MySQL.
-- 🛒 **E-Commerce Website** – Online shopping platform with authentication.
+- 🛒 **E-Commerce Website** – Responsive online shopping platform.
 
 ---
 
@@ -90,13 +100,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MannatRawat-22&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannatRawat-22&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MannatRawat-22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannatRawat-22&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MannatRawat-22&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MannatRawat-22&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -104,17 +113,18 @@
 ## 🌱 Currently Learning
 
 - React.js
-- Node.js
-- Express.js
+- Node.js & Express.js
 - REST APIs
 - Data Structures & Algorithms
+- Full-Stack Development
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-**SRM Institute of Science and Technology, Delhi NCR Campus**  
+**Bachelor of Computer Applications (BCA)**
+
+📍 SRM Institute of Science and Technology, Delhi NCR Campus  
 📅 2025 – 2028
 
 ---
@@ -122,23 +132,26 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mannat-rawat/" target="_blank">
+<a href="https://www.linkedin.com/in/mannat-rawat/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/MannatRawat-22" target="_blank">
+<a href="https://github.com/MannatRawat-22" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mannat-rawat/
+- 💻 GitHub: https://github.com/MannatRawat-22
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🌿 I enjoy gardening and interior design.
+- 🌿 I enjoy gardening and decorating spaces.
 - 🎨 I love creating clean and aesthetic user interfaces.
 - 💻 I enjoy turning ideas into real web applications.
-- 🚀 Always excited to learn something new.
+- ☕ Coffee + coding = productive day.
 
 ---
 
