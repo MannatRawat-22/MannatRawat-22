@@ -52,30 +52,32 @@
 
 ### 🌐 Web Development Intern
 **Prodigy InfoTech**
+- Built responsive web applications using HTML, CSS, and JavaScript.
+- Developed a Responsive Landing Page, Stopwatch Web Application, Tic-Tac-Toe Game, Personal Portfolio Website, and Weather App.
+- Improved frontend development skills through hands-on projects and best coding practices.
 
-- Developed responsive web applications.
-- Worked with HTML, CSS, JavaScript, and GitHub.
-- Improved frontend development skills through practical projects.
+### 🤖 AI & Web Development Intern
+**InAmigo**
+- Developed and maintained company websites.
+- Improved existing website functionality and user experience.
+- Assisted in reviewing backend implementation and website structure.
 
 ### 📊 Business Research Intern
 **Prashant Kumar LTD**
-
-- Conducted market and competitor research.
-- Analyzed business trends and prepared reports.
-- Assisted in research-driven business decisions.
+- Conducted competitor research and market analysis.
+- Researched international companies, with a focus on the London market.
+- Gathered business insights to support strategic decision-making.
 
 ### 💼 Business Development Intern
 **Innovination**
-
-- Worked on lead generation and client outreach.
-- Connected with potential clients and supported partnership initiatives.
+- Conducted lead generation and client outreach.
+- Supported partnership development and business growth initiatives.
+- Communicated with prospective clients and assisted in business expansion.
 
 ### 🤝 Internship Delegate
 **SkillAiro**
-
 - Represented SkillAiro on campus.
-- Promoted internship opportunities and student engagement.
-
+- Promoted internship opportunities and coordinated student engagement.
 ---
 
 ## 🚀 Featured Projects
