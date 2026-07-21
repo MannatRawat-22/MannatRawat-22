@@ -74,9 +74,6 @@
 - 🌐 **Portfolio Website** – Personal portfolio showcasing skills and projects.
 - ☁️ **Weather App** – Real-time weather application using REST APIs.
 - 📝 **To-Do List App** – Task management application with local storage.
-- 🎓 **Student Management System** – CRUD application using PHP & MySQL.
-- 🛒 **E-Commerce Website** – Responsive online shopping platform.
-
 ---
 
 ## 🏆 Certifications
