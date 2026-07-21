@@ -85,6 +85,14 @@
 - Built an interactive dashboard using Tableau to communicate key business metrics.
 - Applied data cleaning, visualization, and analytical thinking to support data-driven decision-making.
 
+
+  ### 💻 Web Development for Beginners (Simplilearn)
+- Completed a foundational course covering the core building blocks of web development.
+- Learned HTML for structuring web pages and CSS for styling and layout.
+- Gained hands-on practice building simple, responsive web pages from scratch.
+- Strengthened understanding of how front-end components come together to create functional websites.
+
+
 ---
 
 ## 📊 GitHub Stats
