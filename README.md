@@ -85,13 +85,17 @@
 - Built an interactive dashboard using Tableau to communicate key business metrics.
 - Applied data cleaning, visualization, and analytical thinking to support data-driven decision-making.
 
-
-  ### 💻 Web Development for Beginners (Simplilearn)
+### 🏅 Web Development for Beginners (Simplilearn)
 - Completed a foundational course covering the core building blocks of web development.
 - Learned HTML for structuring web pages and CSS for styling and layout.
 - Gained hands-on practice building simple, responsive web pages from scratch.
 - Strengthened understanding of how front-end components come together to create functional websites.
 
+### 🏅 Introduction to Artificial Intelligence (Simplilearn)
+- Completed an introductory course focused on the fundamental concepts of Artificial Intelligence.
+- Gained foundational knowledge of AI concepts and their applications.
+- Developed an understanding of the role of Artificial Intelligence in modern technology.
+- Strengthened awareness of key AI principles and their practical relevance.
 
 ---
 
