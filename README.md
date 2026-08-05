@@ -1,15 +1,18 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MannatRawat-22/MannatRawat-22/main/images/banner.png" width="100%" />
-  <h3>Aspiring Full-Stack Web Developer</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/mannat-rawat/">
-      <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFC8&labelColor=000000" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/MannatRawat-22">
-      <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00FFC8&labelColor=000000" alt="GitHub" />
-    </a>
-  </p>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mannat-rawat/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FFC8&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MannatRawat-22">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00FFC8&labelColor=000000" alt="GitHub" />
+  </a>
+</div>
+
 <br/>
 
 ---
@@ -19,12 +22,12 @@
 ## `//` About Me
 
 <div align="left">
-  <p><b>Name:</b> Mannat Rawat</p>
-  <p><b>Role:</b> Aspiring Full-Stack Web Developer</p>
-  <p><b>Education:</b> BCA @ SRM Institute of Science and Technology, Delhi NCR (2025 – 2028)</p>
-  <p><b>Learning:</b> React.js, Node.js, Express.js, MySQL, Python, Django</p>
-  <p><b>Focus:</b> Full-stack web apps, REST APIs, UI/UX, Cybersecurity fundamentals</p>
-  <p><b>Status:</b> Open to Web Development Internship opportunities</p>
+  <p>
+    Hello there! I'm <b>Mannat Rawat</b>, an Aspiring Full-Stack Web Developer and BCA student at SRM Institute of Science and Technology, Delhi NCR. I enjoy learning new technologies and building responsive web applications. I am currently focusing on full-stack web apps, REST APIs, UI/UX, and cybersecurity fundamentals.
+  </p>
+  <p>
+    I am actively seeking <b>Web Development Internship</b> opportunities to apply my knowledge and grow further.
+  </p>
 </div>
 
 <br/>
@@ -80,6 +83,8 @@
 
 ## `//` Projects
 
+<div align="left">
+
 | Project | Description |
 |---|---|
 | ⏱️ **Chronos Stopwatch** | A stopwatch web app built with real-time tracking functionality. |
@@ -91,9 +96,13 @@
 | 🅲 **C Programs Repository** | Collection of C programs and practice exercises. |
 | 🅲➕ **C++ Programs Repository** | Collection of C++ programs and practice exercises. |
 
+</div>
+
 <br/>
 
 ## `//` Certifications
+
+<div align="left">
 
 <details>
 <summary><b>🏅 Deloitte Australia – Data Analytics Job Simulation (Forage)</b></summary>
@@ -135,6 +144,8 @@ Issued Jul 2026
 Completed as part of internship work at FlyRank AI.
 </details>
 
+</div>
+
 <br/>
 
 ## `//` Tech Stack
@@ -164,5 +175,4 @@ Completed as part of internship work at FlyRank AI.
 
 <div align="center">
   ⭐ **Thanks for visiting — feel free to explore my repos and connect!**
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc8,50:0d1b1e,100:000000&height=120&section=footer" width="100%"/>
 </div>
