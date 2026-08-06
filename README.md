@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=Hey%20There!%20I'm%20Mannat%20Rawat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<i>「 Full Stack Web Developer building responsive web apps, exploring AI-powered interfaces, and picking up cybersecurity along the way 」</i>
+<i>「Full Stack Web Developer building responsive web apps, exploring AI-powered interfaces, and picking up cybersecurity along the way」</i>
 
 <br/>
 
