@@ -1,207 +1,154 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>README Preview</title>
-<style>
-  :root{
-    --bg:#0d1117; --bg-card:#161b22; --border:#30363d;
-    --text:#c9d1d9; --text-dim:#8b949e; --accent:#00FFC8; --link:#58a6ff;
-  }
-  *{box-sizing:border-box;}
-  body{
-    margin:0; background:var(--bg); color:var(--text);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
-    line-height:1.6;
-  }
-  .wrap{max-width:900px;margin:0 auto;padding:40px 24px;}
-  .browser-chrome{
-    max-width:900px;margin:24px auto 0;background:#161b22;border:1px solid var(--border);
-    border-radius:10px 10px 0 0;padding:10px 14px;display:flex;align-items:center;gap:8px;
-  }
-  .dot{width:11px;height:11px;border-radius:50%;}
-  .dot.r{background:#ff5f56;} .dot.y{background:#ffbd2e;} .dot.g{background:#27c93f;}
-  .url{margin-left:12px;font-family:ui-monospace,monospace;font-size:12px;color:var(--text-dim);
-    background:#0d1117;padding:4px 10px;border-radius:6px;flex:1;}
-  .frame{max-width:900px;margin:0 auto;border:1px solid var(--border);border-top:none;border-radius:0 0 10px 10px;overflow:hidden;}
+<div align="center"> <img src="https://raw.githubusercontent.com/MannatRawat-22/MannatRawat-22/main/images/banner.png" width="100%" /> <br/>
+typescript
+const mannat = {
+  role: "Full Stack Web Developer",
+  education: "BCA @ SRM Institute of Science & Technology, Delhi NCR",
+  focus: ["MERN Stack", "AI-Powered Interfaces", "Cybersecurity Fundamentals"],
+  status: "🟢 open to Web Development Internships",
+  currentlyBuilding: "production-grade full stack projects"
+};
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=750&lines=console.log(%22Hello%2C+World%22)%3B;Building+Full+Stack+Web+Applications;Shipping+Clean%2C+Responsive+UI;git+commit+-m+%22learning+something+new%22" /> <p align="center"> <a href="https://www.linkedin.com/in/mannat-rawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/MannatRawat-22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://MannatRawat-22.github.io"><img src="https://img.shields.io/badge/Portfolio-00FFC8?style=for-the-badge&logo=vercel&logoColor=black"/></a> <img src="https://komarev.com/ghpvc/?username=MannatRawat-22&style=for-the-badge&color=00FFC8"/> </p> </div> <br/>
+01  About
 
-  center, .center{text-align:center;}
-  img.banner{width:100%;display:block;border-radius:8px;margin-bottom:16px;}
-  code.block{
-    display:block;background:#010409;border:1px solid var(--border);border-radius:8px;
-    padding:16px;font-family:ui-monospace,"SF Mono",Menlo,monospace;font-size:13px;
-    color:#c9d1d9; white-space:pre; overflow-x:auto; margin:16px 0; text-align:left;
-  }
-  .kw{color:#ff7b72;} .str{color:var(--accent);} .prop{color:#79c0ff;} .com{color:var(--text-dim);}
-  .typing{
-    font-family:ui-monospace,monospace;color:var(--accent);text-align:center;font-size:18px;
-    margin:14px 0 20px;min-height:26px;
-  }
-  .badges{text-align:center;margin:14px 0;}
-  .badge{
-    display:inline-block;padding:6px 14px;border-radius:6px;font-size:12px;font-weight:600;
-    margin:4px;color:#fff;
-  }
-  .b-linkedin{background:#0A66C2;} .b-github{background:#181717;border:1px solid #30363d;}
-  .b-portfolio{background:var(--accent);color:#0d1117;} .b-visits{background:var(--accent);color:#0d1117;}
+I turn ideas into responsive, production-ready web apps — and I'm never more than one tab away from documentation for something new. Currently deep in the MERN stack, poking at AI-driven interfaces, and picking up cybersecurity fundamentals along the way.
 
-  h2.section{
-    font-size:20px;border-bottom:1px solid var(--border);padding-bottom:8px;margin-top:36px;
-  }
-  h2.section .num{color:var(--accent);font-family:ui-monospace,monospace;margin-right:6px;}
-  p.sub{color:var(--text-dim);}
+	
+🎓	BCA Student, 2025 – 2028
+🧠	Learning: React · Node · Express · MongoDB · REST APIs · Auth · Cybersecurity
+🛠	Building clean, accessible, responsive UI
+📡	Open to Web Development Internships
+<br/>
+02  Skill Matrix
+<table> <tr><td width="140"><b>JavaScript</b></td><td>
 
-  table{width:100%;border-collapse:collapse;margin:12px 0;font-size:14px;}
-  td,th{border:1px solid var(--border);padding:8px 12px;text-align:left;}
-  tr:nth-child(odd){background:#161b22;}
+Show Image
 
-  .skillrow{display:flex;align-items:center;gap:12px;margin:10px 0;}
-  .skillname{width:150px;font-size:13px;color:var(--text);flex-shrink:0;}
-  .barbg{flex:1;background:#010409;border:1px solid var(--border);border-radius:6px;height:16px;overflow:hidden;}
-  .barfill{height:100%;background:linear-gradient(90deg,#00FFC8,#00b894);}
-  .pct{width:44px;text-align:right;font-size:12px;color:var(--text-dim);}
-  .note{font-size:12px;color:var(--text-dim);margin-top:6px;}
+</td></tr> <tr><td><b>React.js</b></td><td>
 
-  .repo-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:14px 0;}
-  .repo-card{
-    border:1px solid var(--border);border-radius:8px;padding:14px;background:#161b22;
-  }
-  .repo-card .name{color:var(--link);font-weight:600;font-size:14px;margin-bottom:6px;}
-  .repo-card .desc{font-size:12px;color:var(--text-dim);margin-bottom:10px;height:32px;}
-  .repo-card .meta{font-size:12px;color:var(--text-dim);display:flex;gap:14px;}
-  .dotlang{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--accent);margin-right:4px;}
+Show Image
 
-  details{border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin:10px 0;background:#161b22;}
-  summary{cursor:pointer;font-weight:600;font-size:13px;}
+</td></tr> <tr><td><b>Node / Express</b></td><td>
 
-  .warn{
-    border-left:3px solid #f0883e;background:#3a2a10;color:#f0c674;font-size:12.5px;
-    padding:10px 14px;border-radius:0 6px 6px 0;margin:14px 0;
-  }
-  .divider{border:none;border-top:1px solid var(--border);margin:32px 0;}
-  .footer{text-align:center;color:var(--text-dim);font-size:13px;margin-top:30px;}
-  .footer .accent{color:var(--accent);}
-  .fadewrap{position:relative;}
-  .fadewrap::after{
-    content:"↓ rest of README (Achievements, Certifications, Tech Stack, GitHub Analytics, Goals) stays exactly as you had it ↓";
-    display:block;text-align:center;font-size:12px;color:var(--text-dim);padding:24px 10px;
-    border-top:1px dashed var(--border);margin-top:20px;
-  }
-</style>
-</head>
-<body>
+Show Image
 
-<div class="browser-chrome">
-  <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
-  <div class="url">github.com / MannatRawat-22</div>
-</div>
+</td></tr> <tr><td><b>MongoDB</b></td><td>
 
-<div class="frame">
-<div class="wrap">
+Show Image
 
-  <div class="center">
-    <img class="banner" src="https://raw.githubusercontent.com/MannatRawat-22/MannatRawat-22/main/images/banner.png" onerror="this.style.display='none'">
+</td></tr> <tr><td><b>Python</b></td><td>
 
-    <code class="block"><span class="kw">const</span> mannat = {
-  <span class="prop">role</span>: <span class="str">"Full Stack Web Developer"</span>,
-  <span class="prop">education</span>: <span class="str">"BCA @ SRM Institute of Science & Technology, Delhi NCR"</span>,
-  <span class="prop">focus</span>: [<span class="str">"MERN Stack"</span>, <span class="str">"AI-Powered Interfaces"</span>, <span class="str">"Cybersecurity Fundamentals"</span>],
-  <span class="prop">status</span>: <span class="str">"🟢 open to Web Development Internships"</span>,
-  <span class="prop">currentlyBuilding</span>: <span class="str">"production-grade full stack projects"</span>
-};</code>
+Show Image
 
-    <div class="typing" id="typing"></div>
+</td></tr> <tr><td><b>Cybersecurity Basics</b></td><td>
 
-    <div class="badges">
-      <span class="badge b-linkedin">LinkedIn</span>
-      <span class="badge b-github">GitHub</span>
-      <span class="badge b-portfolio">Portfolio</span>
-      <span class="badge b-visits">👁 1,204 profile views</span>
-    </div>
-  </div>
+Show Image
 
-  <h2 class="section"><span class="num">01</span>About</h2>
-  <p>I turn ideas into responsive, production-ready web apps — and I'm never more than one tab away from documentation for something new. Currently deep in the MERN stack, poking at AI-driven interfaces, and picking up cybersecurity fundamentals along the way.</p>
-  <table>
-    <tr><td>🎓</td><td>BCA Student, 2025 – 2028</td></tr>
-    <tr><td>🧠</td><td>Learning: React · Node · Express · MongoDB · REST APIs · Auth · Cybersecurity</td></tr>
-    <tr><td>🛠</td><td>Building clean, accessible, responsive UI</td></tr>
-    <tr><td>📡</td><td>Open to Web Development Internships</td></tr>
-  </table>
+</td></tr> </table>
 
-  <h2 class="section"><span class="num">02</span>Skill Matrix</h2>
-  <div id="skills"></div>
-  <p class="note">Percentages are self-rated confidence, not a certification — a compass, not a scoreboard.</p>
+Percentages are self-rated confidence, not a certification — treat them as a compass, not a scoreboard.
 
-  <h2 class="section"><span class="num">03</span>Experience Log</h2>
-  <code class="block com">$ git log --oneline --graph --all</code>
-  <table>
-    <tr><th>Role</th><th>Organization</th><th>Focus</th></tr>
-    <tr><td>💻 Web Development Intern</td><td>Prodigy InfoTech</td><td>Responsive websites, modern UI</td></tr>
-    <tr><td>🤖 Front-end AI Engineering Intern</td><td>FlyRank AI</td><td>AI-powered web interfaces</td></tr>
-    <tr><td>🛡 Cyber Security Intern</td><td>CodeAlpha</td><td>Networking & security fundamentals</td></tr>
-    <tr><td>🎨 Web Dev & Designing Intern</td><td>Oasis Infobyte</td><td>Responsive web applications</td></tr>
-    <tr><td>🌐 Web Dev & Designing Intern</td><td>Synent Technologies</td><td>Responsive websites, frontend</td></tr>
-    <tr><td>❤️ AI & Web Development Intern</td><td>InAmigo</td><td>Frontend + AI-based web apps</td></tr>
-    <tr><td>📈 Business Research Intern</td><td>Prashant Kumar LTD</td><td>Competitor research, market analysis</td></tr>
-  </table>
+<br/>
+03  Experience Log
+$ git log --oneline --graph --all
+Role	Organization	Focus
+💻 Web Development Intern	Prodigy InfoTech	Responsive websites, modern UI components
+🤖 Front-end AI Engineering Intern	FlyRank AI	AI-powered web interfaces
+🛡 Cyber Security Intern	CodeAlpha	Networking & security fundamentals
+🎨 Web Development & Designing Intern	Oasis Infobyte	Responsive web applications
+🌐 Web Development & Designing Intern	Synent Technologies	Responsive websites, frontend dev
+❤️ AI & Web Development Intern	InAmigo	Frontend improvements, AI-based web apps
+📈 Business Research Intern	Prashant Kumar LTD	Competitor research, market analysis
+<br/>
+04  Featured Repositories
+<p>Live, pinned, pulling real stars/forks/language stats straight from GitHub — click any card to open the repo.</p> <p align="center"> <a href="https://github.com/MannatRawat-22/weather-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=weather-app&theme=github_dark&hide_border=true" /></a> <a href="https://github.com/MannatRawat-22/chronos-stopwatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=chronos-stopwatch&theme=github_dark&hide_border=true" /></a> </p> <p align="center"> <a href="https://github.com/MannatRawat-22/responsive-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=responsive-landing-page&theme=github_dark&hide_border=true" /></a> <a href="https://github.com/MannatRawat-22/tic-tac-toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=tic-tac-toe&theme=github_dark&hide_border=true" /></a> </p> <p align="center"> <a href="https://github.com/MannatRawat-22/hopehands"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=hopehands&theme=github_dark&hide_border=true" /></a> <a href="https://github.com/MannatRawat-22/MannatRawat-22.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MannatRawat-22&repo=MannatRawat-22.github.io&theme=github_dark&hide_border=true" /></a> </p>
 
-  <h2 class="section"><span class="num">04</span>Featured Repositories</h2>
-  <p class="sub">Live pinned repo cards pull real stars/forks/language stats straight from GitHub.</p>
-  <div class="repo-grid" id="repos"></div>
-  <div class="warn">⚠️ Pin cards only render for repos that actually exist and are public on your GitHub — swap the placeholder repo names (weather-app, chronos-stopwatch, etc.) for your real repo slugs.</div>
+⚠️ Swap in your real repo names: pin cards only render for repos that (a) exist on your GitHub and (b) are public. Replace weather-app, chronos-stopwatch, etc. above with your actual repo slugs (find them in each repo's URL, e.g. github.com/MannatRawat-22/<repo-slug>).
 
-  <div class="fadewrap"></div>
+<details> <summary><b>📦 Project details, stack & links</b></summary> <br/>
+
+🌦 Weather App HTML CSS JavaScript REST API — real-time weather lookup with a live third-party API. Live Demo · Source
+
+⏱ Chronos Stopwatch HTML CSS JavaScript — precision stopwatch with lap, pause, and reset controls. Live Demo · Source
+
+🌐 Responsive Landing Page HTML CSS JavaScript — smooth-scroll landing page, mobile-first layout. Live Demo · Source
+
+🎮 Tic Tac Toe HTML CSS JavaScript — interactive 2-player browser game with win-state detection. Live Demo · Source
+
+💛 HopeHands HTML CSS JavaScript — accessibility-first NGO website built for user engagement. Live Demo · Source
+
+👨‍💻 Personal Portfolio Portfolio site showcasing skills, projects and experience. Live Site · Source
+
+</details>
+🏆 Achievements
+🌟 Rising Star Award
+💼 Completed Multiple Industry Internships
+📜 Earned Professional Certifications
+💻 Built Multiple Responsive Web Projects
+🚀 Continuously Learning New Technologies
+📜 Certifications
+<details> <summary><b>🏅 Deloitte Australia – Data Analytics Job Simulation (Forage)</b></summary>
+
+Completed practical tasks involving:
+
+Data Cleaning
+Data Visualization
+Tableau Dashboard
+Business Insights
+</details> <details> <summary><b>🏅 Web Development for Beginners – Simplilearn</b></summary>
+
+Issued Jul 2026
+
+Credential ID: 10496757
+
+</details> <details> <summary><b>🏅 Introduction to Artificial Intelligence – Simplilearn</b></summary>
+
+Issued Jul 2026
+
+Credential ID: 10497148
+
+</details> <details> <summary><b>🏅 Exploratory Data Analysis – FutureSkills Prime</b></summary>
+
+Issued Jul 2026
+
+</details> <details> <summary><b>🏅 Python & Django – FutureSkills Prime</b></summary>
+
+Issued Jul 2026
+
+</details> <details> <summary><b>🏅 AI Fluency: Framework & Foundations – FlyRank AI</b></summary>
+
+Completed as part of internship training.
+
+</details>
+💻 Tech Stack
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /> </p>
+⚙ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django" /> </p>
+🗄 Database
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /> </p>
+🛠 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MannatRawat-22&show_icons=true&theme=github_dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannatRawat-22&layout=compact&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MannatRawat-22&theme=github-dark-blue&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MannatRawat-22&theme=react-dark&hide_border=true"/> </p>
+🎯 2026 Goals
+✅ Master MERN Stack
+✅ Contribute to Open Source
+✅ Build Full Stack Projects
+✅ Learn DevOps Basics
+✅ Land a Software Development Internship
+✅ Reach 1000+ GitHub Contributions
+🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects, internships, hackathons and open-source contributions.
+
+<p align="center"> <a href="https://www.linkedin.com/in/mannat-rawat/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/MannatRawat-22"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<div align="center">
+⭐ Thanks for visiting my profile!
+
+"Code • Learn • Build • Repeat."
+
+⭐ If you like my work, don't forget to star my repositories.
 
 </div>
-</div>
-
-<div class="footer">Preview approximates GitHub's dark-mode markdown rendering · actual look may vary slightly by theme</div>
-
-<script>
-const lines = [
-  'console.log("Hello, World");',
-  "Building Full Stack Web Applications",
-  "Shipping Clean, Responsive UI",
-  'git commit -m "learning something new"'
-];
-let li=0, ci=0, el=document.getElementById('typing');
-function type(){
-  if(ci<=lines[li].length){
-    el.textContent = lines[li].slice(0,ci);
-    ci++; setTimeout(type, 45);
-  } else {
-    setTimeout(()=>{ci=0; li=(li+1)%lines.length; type();}, 1200);
-  }
-}
-type();
-
-const skills = [
-  ["JavaScript",80],["React.js",70],["Node / Express",65],
-  ["MongoDB",60],["Python",75],["Cybersecurity Basics",45]
-];
-document.getElementById('skills').innerHTML = skills.map(([n,p])=>`
-  <div class="skillrow">
-    <div class="skillname">${n}</div>
-    <div class="barbg"><div class="barfill" style="width:${p}%"></div></div>
-    <div class="pct">${p}%</div>
-  </div>`).join('');
-
-const repos = [
-  ["weather-app","Responsive weather app using a REST API","JavaScript","★ 4"],
-  ["chronos-stopwatch","Real-time stopwatch with timer controls","JavaScript","★ 2"],
-  ["responsive-landing-page","Modern landing page, smooth scroll","HTML","★ 3"],
-  ["tic-tac-toe","Interactive browser Tic Tac Toe game","JavaScript","★ 2"],
-  ["hopehands","Accessible NGO website","JavaScript","★ 5"],
-  ["MannatRawat-22.github.io","Personal portfolio site","HTML","★ 6"]
-];
-document.getElementById('repos').innerHTML = repos.map(([n,d,l,s])=>`
-  <div class="repo-card">
-    <div class="name">📦 ${n}</div>
-    <div class="desc">${d}</div>
-    <div class="meta"><span><span class="dotlang"></span>${l}</span><span>${s}</span></div>
-  </div>`).join('');
-</script>
-
-</body>
-</html>
